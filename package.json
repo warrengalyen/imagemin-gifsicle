@@ -1,9 +1,9 @@
 {
-	"name": "imagemin-gifsicle",
+	"name": "@mechanikadesign/imagemin-gifsicle",
 	"version": "7.0.0",
 	"description": "Imagemin plugin for Gifsicle",
 	"license": "MIT",
-	"repository": "imagemin/imagemin-gifsicle",
+	"repository": "mechanikadesign/imagemin-gifsicle",
 	"funding": "https://github.com/imagemin/imagemin-gifsicle?sponsor=1",
 	"engines": {
 		"node": ">=10"
